@@ -28,14 +28,14 @@ Everyday carry kinfolk shoreditch normcore try-hard etsy messenger bag venmo ena
 
 Pour-over blue bottle woke listicle, pitchf
 
-<div align="center"><img width="80%" height="80%" src="https://github.com/gaoyangzhen/gaoyangzhen.github.io/tree/master/assets/img/ybfjqzp02.png"/></div>
+<div align="center"><img width="80%" height="80%" src="{{site.baseurl}}/assets/img/ybfjqzp02.png"/></div>
 
 <center>
 Pour-over blue bottle woke listicle
 </center>
 
 Pour-over blue bottle woke listicle, pitchf
-<div align="center"><img width="50%" height="50%" src="https://github.com/gaoyangzhen/gaoyangzhen.github.io/tree/master/assets/img/ybfjq03.JPG"/></div>
+<div align="center"><img width="50%" height="50%" src="{{site.baseurl}}/assets/img/ybfjq03.JPG"/></div>
 
 
 申请专利: 一种硬币分拣器 [(专利号 CN201620773240.X)](http://www.innojoy.com/patent/patent.html?docno=CN201620773240.X&trsdb=syxx&showList=true/ "With a Title")
