@@ -6,7 +6,9 @@ layout: main
     {% if page.img %}
     <div class="page-cover-image">
       <figure>
-        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}"  style="display: inline-block; width: 50%;" >
+          <div align=center>
+        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}"  style="display: inline-block; width: 70%;" >
+          </div>
         {% if page.fig-caption %}
           <figcaption>{{page.fig-caption}}</figcaption>
         {% endif %}

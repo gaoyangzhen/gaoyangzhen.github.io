@@ -1,5 +1,5 @@
 title: 高阳臻个人简历
-description: > # this means to ignore newlines until "baseurl:"
+description: 杜萨苏贝贝帮帮我拿不到吃饭> # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -11,12 +11,13 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 高阳臻 # add your name
 author-img: gaoyangzhen.jpg # add your photo
-about-author: 2020应届生，机械工程，贵州大学 # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
+about-author:    2020应届生, 贵州大学    机械工程, 硕士 # add description
+
+social-QQ: 296170926 # add your Twitter handle
+social-WeChat: GaoYangZhen_ # add your Facebook handle
 social-email: gs.yzgao17@gzu.edu.cn # add your Email address
+social-linkedin: # add your Linkedin handle
+
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
