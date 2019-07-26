@@ -21,8 +21,7 @@ tags:  # add tag
 <div align="center"><img width="45%" height="45%" src="{{site.baseurl}}/assets/img/bistu-uav01.png"/></div>  
 <center>
 长航时测绘无人机
-</center> 
-
+</center>  
 
 <div align="center"><img width="45%" height="45%" src="{{site.baseurl}}/assets/img/bistu-uav02.png"/></div>  
 <center>
