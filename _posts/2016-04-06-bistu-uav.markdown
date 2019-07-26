@@ -1,0 +1,23 @@
+---
+layout: post
+title: 北京信息科技大学无人航空器技术研究协会项目(项目负责人、项目成员)
+date: 2016-04-06 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: bistu-uav.jpg # Add image post (optional)
+tags:  # add tag
+---
+**项目介绍**  
+2013-2016年在北京信息科技大学协会无人航空器技术研究协会担任项目负责人，完成长航时测绘无人机项目，同时作为项目成员参与基于无人机的光伏巡检系统项目等多个大创项目。 
+
+**负责事宜**   
+●  负责项目进度计划安排，团队组建及管理，项目成员工作分工及安排  
+●  负责加工厂商协调、材料采购和测试安排  
+●  负责长航时测绘无人机项目载机内部机械结构设计制作，如摄像头吊舱制作、电池仓制作、电源接口安装座设计等  
+●  负责光伏巡检无人机装配  
+●  负责项目过程文档、产品设计文档及技术积累文档的编制及审核 
+
+**项目成果**   
+在预期时间内完成相关项目产品的制作并通过审核
+<div align="center"><img width="65%" height="65%" src="{{site.baseurl}}/assets/img/bistu-uav01.png"/></div>  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;长航时测绘无人机&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &nbsp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 光伏巡检无人机
+ 

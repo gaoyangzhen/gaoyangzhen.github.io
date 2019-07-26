@@ -1,4 +1,4 @@
-title: 高阳臻个人简历
+title: 高阳臻个人成果
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,7 +11,9 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 高阳臻 # add your name
 author-img: gaoyangzhen.jpg # add your photo
-about-author:    2020应届生, 贵州大学    机械工程, 硕士 # add description
+about-author: >
+              2020应届生，硕士
+              贵州大学，机械工程 # add description
 social-QQ:  # add your Twitter handle
 social-WeChat: GaoYangZhen_ # add your Facebook handle
 social-email: gs.yzgao17@gzu.edu.cn # add your Email address

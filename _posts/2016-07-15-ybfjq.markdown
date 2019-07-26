@@ -1,0 +1,31 @@
+---
+layout: post
+title: 硬币分拣器（项目负责人）
+date: 2016-07-15 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: ybfjq00.jpg # Add image post (optional)
+tags:  # add tag
+---
+**项目介绍**  
+该项目为学校大学生创新创业项目  
+本项目研发的硬币分拣器可快速分选目前市场上流通硬币的设备。该设备主要分为三大系统：硬币分离传输系统、硬币筛选计数系统、硬币收集系统。将硬币放入盛币斗，通过转盘转动，利用离心作用将硬币逐一分离进入传输轨道，由传送带将其传输到开设有大小不同的分离孔的倾斜导轨，根据硬币直径不同，由小到大逐一通过不同的孔，落入相应收集盒中，完成对硬币的分拣。本硬币分拣器采用传感器进行计数，同时设有显示屏，可以实时监控硬币分拣器内硬币的种类及数量。进一步地，本分拣器设有声光提示功能，硬币收集达到预置值时在操控面板上有声光提示，从而避免了工作人员误操作的发生。
+
+**负责事宜**   
+●  负责硬币分选现有设备调研及分析  
+●  负责硬币分拣器的设计制作及调试，如硬币分选装置设计、硬币传输及收集系统设计、硬币计数系统开发、整机制作材料选择等  
+●  负责技术及专利文档撰写及设备宣传资料制作
+
+**项目成果**   
+●  获第七届全国大学生机械创新设计大赛二等奖、首都高校第八届机械创新设计大赛一等奖、北京信息科技大学2015年机械创新设计大赛一等奖  
+<div align="center"><img width="90%" height="90%" src="{{site.baseurl}}/assets/img/ybfjq01.jpg"/></div>
+<div align="center"><img width="100%" height="100%" src="{{site.baseurl}}/assets/img/ybfjqzp02.png"/></div>
+
+●  申请专利: 一种硬币分拣器 [(专利号 CN201620773240.X)](http://www.innojoy.com/patent/patent.html?docno=CN201620773240.X&trsdb=syxx&showList=true/ "With a Title")  
+●  参加第三届北京市大学生创新创业教育成果展示与经验交流会  
+<div align="center"><img width="35%" height="35%" src="{{site.baseurl}}/assets/img/ybfjq03.JPG"/></div>
+
+
+**硬币分拣器视频**  
+<iframe width="100%" height="600" src="https://player.bilibili.com/player.html?aid=60565018&cid=105432677&page=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+

@@ -1,0 +1,22 @@
+---
+layout: post
+title: 全地形车设计(项目负责人)
+date: 2018-05-27 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: qdxc.JPG # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: # add tag
+---
+**项目介绍**  
+该项目为2018中国工程机器人大赛参赛项目  
+研发具备自主巡线及越障功能的全地形车
+
+**负责事宜**  
+  ●  负责全地形车机械结构方案设计、制作及优化  
+  ●  负责全地形车自主巡线设计，如规划巡线方案、利用Arduino平台进行系统搭建、采用PID控制等  
+  ●  负责指导调试工作，技术文件编制
+
+
+**项目成果**  
+获2018中国工程机器人大赛三等奖
+<div align="center"><img width="50%" height="50%" src="{{site.baseurl}}/assets/img/qdx.jpg"/></div> 

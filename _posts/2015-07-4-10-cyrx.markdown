@@ -1,0 +1,21 @@
+---
+layout: post
+title: 飞翼无人机项目（项目经理）
+date: 2015-07-4 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: cyrx00.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: # add tag
+---
+**项目介绍**  
+该项目是在深圳市创翼睿翔天空科技有限公司实习所负责的项目。
+研发一款专门针对地理测绘任务的飞翼布局高性能无人机。
+
+**负责事宜**  
+●  负责手抛飞翼无人机项目规划及方案设计，从可靠性、可维护性、可装配性等方面进行产品方案设计及机舱内部布局设计规划，并撰写产品方案设计说明书  
+●  负责对原型机部分零部件加工和装配调试，并与电子、软件进行联调，并进行问题分析和确定解决方案，撰写产品调试分析报告  
+●  负责把控项目时间节点，协调人力、设备资源的分配以及项目成员的任务分配、任务跟踪，与相关部门及时反馈，督促项目按时完成  
+●  总结手抛飞翼无人机项目研发过程出现问题，撰写项目总结报告
+
+**项目成果**  
+完成原型机调试

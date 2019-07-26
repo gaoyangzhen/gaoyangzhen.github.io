@@ -1,0 +1,29 @@
+---
+layout: post
+title: 消防机器人（项目负责人）
+date: 2017-07-12 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: xfjqr.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: 
+---
+**项目介绍**  
+该项目为校企合作项目、个人本科毕业设计研究课题。  
+本课题研究的主要目标是在分析各国消防机器人技术发展的基础上，研发一种具备灭火及灾情侦查功能的履带式消防机器人，代替消防救援人员进入易燃易爆、有毒、缺氧、浓烟等危险灾害事故现场进行数据采集、处理、反馈，使现场指挥人员可以根据其反馈结果，及时对灾情作出科学判断，并对灾害事故现场工作采取正确、合理的决策。该机器人越障能力强，能够进行大角度爬坡越障，有独立悬挂减震系统，消防水炮可水平回转以及俯仰运动。履带式消防机器人的研究,对发展我国消防事业、保护人民財产有着举足控重的意义
+
+**负责事宜**  
+●  负责消防机器人产品前期调研  
+●  负责机器人功能及结构设计，如灭火装置选择、图像传输搭载平台设计、电子元器件选型及机体布局设计等  
+●  负责消防机器人运行调试及技术文档撰写
+
+**项目成果**  
+消防机器人已交付企业使用  
+申请专利: 履带式消防机器人 [(专利号 CN201730455164.8)](http://www.innojoy.com/patent/patent.html?docno=CN201730455164.8&trsdb=wgzl&showList=true/ "With a Title")
+
+<div align="center"><img width="70%" height="70%" src="{{site.baseurl}}/assets/img/xfjqr03.jpg"/></div>  
+<center>
+消防机器人三维和实物图 
+</center> 
+
+**消防机器人测试视频**  
+<iframe width="100%" height="600" src="https://player.bilibili.com/player.html?aid=60568154&cid=105431107&page=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
