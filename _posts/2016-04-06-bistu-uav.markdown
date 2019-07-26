@@ -22,6 +22,7 @@ tags:  # add tag
 <center>
 长航时测绘无人机
 </center> 
+
 <div align="center"><img width="45%" height="45%" src="{{site.baseurl}}/assets/img/bistu-uav02.png"/></div>  
 <center>
 光伏巡检无人机
