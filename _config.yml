@@ -11,8 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 高阳臻 # add your name
 author-img: gaoyangzhen.jpg # add your photo
-about-author: "2025应届生,   博士"
-about-author: "东南大学,   机械工程"
+about-author: "2025应届生,   博士,   \n 东南大学,   机械工程"
 social-QQ:  # add your Twitter handle
 social-WeChat: GaoYangZhen_ # add your Facebook handle
 social-email: yzgao@seu.edu.cn # add your Email address
